@@ -1,0 +1,1 @@
+Just example from Tensorflow [tutorial](https://www.tensorflow.org/tutorials/keras/text_classification)
